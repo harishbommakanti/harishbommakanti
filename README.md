@@ -8,6 +8,8 @@ I'm currently a sophomore undergrad at UT Austin pursuing a Bachelors in Compute
 
 **Interests:** AI, Software Engineering, Mathematics, and Computer Hardware.
 
+Here are a few of languages, developer tools, machine learning frameworks, and web frameworks that I am comfortable in working with:
+
 ![](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=python&color=blue)
 ![](https://img.shields.io/badge/Language-Java-informational?style=flat&logo=java&color=blue)
 ![](https://img.shields.io/badge/Language-C-informational?style=flat&logo=c&color=blue)
@@ -35,3 +37,4 @@ I'm currently a sophomore undergrad at UT Austin pursuing a Bachelors in Compute
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=harishbommakanti&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
+Feel free to reach out if you or anyone you know may be interested in working with me!

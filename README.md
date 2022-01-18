@@ -1,9 +1,7 @@
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
 <h3 align="center">
 <b>Welcome to my GitHub! 👋</b>
-
-<hr>
-
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 </h3>
 
 I'm currently a sophomore undergrad at UT Austin pursuing a Bachelors in Computer Science.
@@ -52,8 +50,6 @@ I'm currently a sophomore undergrad at UT Austin pursuing a Bachelors in Compute
 
 ![](https://img.shields.io/badge/Web-VuePress-informational?style=flat&logo=vuepress&color=darkgreen)
 ![](https://img.shields.io/badge/Web-Jekyll-informational?style=flat&logo=jekyll&color=darkgreen)
-
-<hr>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=harishbommakanti&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 

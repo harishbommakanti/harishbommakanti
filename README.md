@@ -4,31 +4,15 @@
 <b>Welcome to my GitHub! 👋</b>
 </h3>
 
-I'm currently a sophomore undergrad at UT Austin pursuing a Bachelors in Computer Science.
+I'm currently a sophomore undergrad at UT Austin pursuing a Bachelors in Computer Science. Check out my [personal website](https://harishbommakanti.github.io) for information about classes I've taken, positions I've landed, and projects I've completed.
 
-**Worked at:**
-* NASA — SEES Intern `(Summer 2018)`
-* Research labs at UT Austin — Undergraduate Research Assistant `(Summer 2019, Fall 2020 - Summer 2021)`
-* TA — Introduction to Programming in Python `(Spring 2021)`
-* Mythic, Inc. — Firmware Engineer Intern `(Summer 2022)`
+**Interests:** AI, Software Engineering, Mathematics, and Computer Hardware.
 
-**Interests:**
-* AI
-* Software Engineering
-* Mathematics
-* Computer Hardware
-
-**Languages:**
-
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=blue)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&color=blue)
-![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&color=blue)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=blue)
-![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html&color=blue)
-![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css&color=blue)
-![](https://img.shields.io/badge/Code-Assembly-informational?style=flat&logo=assembly&color=blue)
-
-**Tools:**
+![](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=python&color=blue)
+![](https://img.shields.io/badge/Language-Java-informational?style=flat&logo=java&color=blue)
+![](https://img.shields.io/badge/Language-C-informational?style=flat&logo=c&color=blue)
+![](https://img.shields.io/badge/Language-JavaScript-informational?style=flat&logo=javascript&color=blue)
+![](https://img.shields.io/badge/Language-Assembly-informational?style=flat&logo=assembly&color=blue)
 
 ![](https://img.shields.io/badge/Tool-Linux-informational?style=flat&logo=linux&color=purple)
 ![](https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=git&color=purple)
@@ -40,14 +24,12 @@ I'm currently a sophomore undergrad at UT Austin pursuing a Bachelors in Compute
 ![](https://img.shields.io/badge/Tool-Swarm-informational?style=flat&logo=swarm&color=purple)
 ![](https://img.shields.io/badge/Tool-LaTeX-informational?style=flat&color=purple)
 
-**Machine Learning Frameworks:**
+![](https://img.shields.io/badge/ML-ScikitLearn-informational?style=flat&logo=scikit-learn&color=red)
+![](https://img.shields.io/badge/ML-PyTorch-informational?style=flat&logo=pytorch&color=red)
+![](https://img.shields.io/badge/ML-TensorBoard-informational?style=flat&logo=tensorboard&color=red)
 
-![](https://img.shields.io/badge/ML-ScikitLearn-informational?style=flat&logo=scikit-learn&color=orange)
-![](https://img.shields.io/badge/ML-PyTorch-informational?style=flat&logo=pytorch&color=orange)
-![](https://img.shields.io/badge/ML-TensorBoard-informational?style=flat&logo=tensorboard&color=orange)
-
-**Web Frameworks:**
-
+![](https://img.shields.io/badge/Web-HTML-informational?style=flat&logo=html&color=darkgreen)
+![](https://img.shields.io/badge/Web-CSS-informational?style=flat&logo=css&color=darkgreen)
 ![](https://img.shields.io/badge/Web-VuePress-informational?style=flat&logo=vuepress&color=darkgreen)
 ![](https://img.shields.io/badge/Web-Jekyll-informational?style=flat&logo=jekyll&color=darkgreen)
 

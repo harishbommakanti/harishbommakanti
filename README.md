@@ -1,8 +1,6 @@
 <h3 align="center">
 <b>Welcome to my GitHub! 👋</b>
 
-Check out my [personal website](https://harishbommakanti.github.io) for more detailed information about classes I've taken, positions I've landed, and projects I've completed.
-
 <hr>
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -10,7 +8,13 @@ Check out my [personal website](https://harishbommakanti.github.io) for more det
 
 I'm currently a sophomore undergrad at UT Austin pursuing a Bachelors in Computer Science.
 
-**Interests** (in no particular order):
+**Worked at:**
+* NASA — SEES Intern `(Summer 2018)`
+* Research labs at UT Austin — Undergraduate Research Assistant `(Summer 2019, Fall 2020 - Summer 2021)`
+* TA — Introduction to Programming in Python `(Spring 2021)`
+* Mythic, Inc. — Firmware Engineer Intern `(Summer 2022)`
+
+**Interests:**
 * AI
 * Software Engineering
 * Mathematics
@@ -38,13 +42,13 @@ I'm currently a sophomore undergrad at UT Austin pursuing a Bachelors in Compute
 ![](https://img.shields.io/badge/Tool-Swarm-informational?style=flat&logo=swarm&color=purple)
 ![](https://img.shields.io/badge/Tool-LaTeX-informational?style=flat&color=purple)
 
-**Machine Learning Frameworks**
+**Machine Learning Frameworks:**
 
 ![](https://img.shields.io/badge/ML-ScikitLearn-informational?style=flat&logo=scikit-learn&color=orange)
 ![](https://img.shields.io/badge/ML-PyTorch-informational?style=flat&logo=pytorch&color=orange)
 ![](https://img.shields.io/badge/ML-TensorBoard-informational?style=flat&logo=tensorboard&color=orange)
 
-**Web Frameworks**
+**Web Frameworks:**
 
 ![](https://img.shields.io/badge/Web-VuePress-informational?style=flat&logo=vuepress&color=darkgreen)
 ![](https://img.shields.io/badge/Web-Jekyll-informational?style=flat&logo=jekyll&color=darkgreen)

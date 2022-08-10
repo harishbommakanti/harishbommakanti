@@ -11,7 +11,7 @@ My current interests include AI, Software Engineering, and Software Development.
 Here are some languages, developer tools, and ML/AI frameworks that I'm comfortable in working with:
 
 ![](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=python&color=darkgreen)
-![](https://img.shields.io/badge/Language-Java-informational?style=flat&logo=&color=darkgreen)
+![](https://img.shields.io/badge/Language-Java-informational?style=flat&logo=oracle&color=darkgreen)
 ![](https://img.shields.io/badge/Language-C++-informational?style=flat&logo=cplusplus&color=darkgreen)
 ![](https://img.shields.io/badge/Language-C-informational?style=flat&logo=c&color=darkgreen)
 

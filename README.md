@@ -4,7 +4,7 @@
 <b>Welcome to my GitHub! 👋</b>
 </h3>
 
-I'm an undergraduate Junior in the CS program at UT Austin. Check out my [personal website](https://harishbommakanti.github.io) for information about classes I've taken, positions I've landed, and projects I've completed.
+I'm an undergraduate Senior in the CS program at UT Austin, graduating in May 2023. Check out my [personal website](https://harishbommakanti.github.io) for information about classes I've taken, positions I've landed, and projects I've completed.
 
 My current interests include AI, Software Engineering, and Software Development.
 

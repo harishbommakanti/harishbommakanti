@@ -11,15 +11,22 @@ My current interests include AI, Software Engineering, and Software Development.
 Here are some languages, developer tools, and ML/AI frameworks that I'm comfortable in working with:
 
 ![](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=python&color=darkgreen)
-![](https://img.shields.io/badge/Language-Java-informational?style=flat&logo=oracle&color=darkgreen)
+![](https://img.shields.io/badge/Language-Java-informational?style=flat&logo=oracle&color=darkgreen&logoColor=red)
 ![](https://img.shields.io/badge/Language-C++-informational?style=flat&logo=cplusplus&color=darkgreen)
 ![](https://img.shields.io/badge/Language-C-informational?style=flat&logo=c&color=darkgreen)
 
 ![](https://img.shields.io/badge/Tool-Linux-informational?style=flat&logo=linux&color=blue)
 ![](https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=git&color=blue)
+![](https://img.shields.io/badge/Tool-GitHub-informational?style=flat&logo=github&color=blue)
+![](https://img.shields.io/badge/Tool-GitLab-informational?style=flat&logo=gitlab&color=blue)
+![](https://img.shields.io/badge/Tool-Gerrit-informational?style=flat&logo=gerrit&color=blue)
 ![](https://img.shields.io/badge/Tool-Atlassian-informational?style=flat&logo=atlassian&color=blue)
 ![](https://img.shields.io/badge/Tool-CMake-informational?style=flat&logo=cmake&color=blue)
 
+![](https://img.shields.io/badge/ML-Numpy-informational?style=flat&logo=numpy&color=purple)
+![](https://img.shields.io/badge/ML-Pandas-informational?style=flat&logo=pandas&color=purple)
+![](https://img.shields.io/badge/ML-Scipy-informational?style=flat&logo=scipy&color=purple)
+![](https://img.shields.io/badge/ML-Matplotlib-informational?style=flat&logo=plotly&color=purple)
 ![](https://img.shields.io/badge/ML-ScikitLearn-informational?style=flat&logo=scikit-learn&color=purple)
 ![](https://img.shields.io/badge/ML-PyTorch-informational?style=flat&logo=pytorch&color=purple)
 

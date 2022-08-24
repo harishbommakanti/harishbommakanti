@@ -8,7 +8,7 @@ I'm an undergraduate Senior in the CS program at UT Austin, graduating in May 20
 
 My current interests include AI, Software Engineering, and Software Development.
 
-Here are some languages, developer tools, and ML/AI frameworks that I'm comfortable in working with:
+Here are some languages, developer tools, ML/AI frameworks, and web development tools that I'm comfortable in working with:
 
 ![](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=python&color=darkgreen)
 ![](https://img.shields.io/badge/Language-Java-informational?style=flat&logo=oracle&color=darkgreen&logoColor=red)
@@ -23,12 +23,21 @@ Here are some languages, developer tools, and ML/AI frameworks that I'm comforta
 ![](https://img.shields.io/badge/Tool-Atlassian-informational?style=flat&logo=atlassian&color=blue)
 ![](https://img.shields.io/badge/Tool-CMake-informational?style=flat&logo=cmake&color=blue)
 
-![](https://img.shields.io/badge/ML-Numpy-informational?style=flat&logo=numpy&color=purple)
-![](https://img.shields.io/badge/ML-Pandas-informational?style=flat&logo=pandas&color=purple)
-![](https://img.shields.io/badge/ML-Scipy-informational?style=flat&logo=scipy&color=purple)
-![](https://img.shields.io/badge/ML-Matplotlib-informational?style=flat&logo=plotly&color=purple)
-![](https://img.shields.io/badge/ML-ScikitLearn-informational?style=flat&logo=scikit-learn&color=purple)
-![](https://img.shields.io/badge/ML-PyTorch-informational?style=flat&logo=pytorch&color=purple)
+![](https://img.shields.io/badge/ML-Numpy-informational?style=flat&logo=numpy&color=gold)
+![](https://img.shields.io/badge/ML-Pandas-informational?style=flat&logo=pandas&color=gold)
+![](https://img.shields.io/badge/ML-Scipy-informational?style=flat&logo=scipy&color=gold)
+![](https://img.shields.io/badge/ML-Matplotlib-informational?style=flat&logo=plotly&color=gold)
+![](https://img.shields.io/badge/ML-ScikitLearn-informational?style=flat&logo=scikit-learn&color=gold)
+![](https://img.shields.io/badge/ML-PyTorch-informational?style=flat&logo=pytorch&color=gold)
+
+![](https://img.shields.io/badge/Web-HTML-informational?style=flat&logo=html5&color=purple)
+![](https://img.shields.io/badge/Web-CSS-informational?style=flat&logo=css3&color=purple)
+![](https://img.shields.io/badge/Web-JavaScript-informational?style=flat&logo=javascript&color=purple)
+![](https://img.shields.io/badge/Web-Bootstrap-informational?style=flat&logo=bootstrap&color=purple)
+![](https://img.shields.io/badge/Web-Flask-informational?style=flat&logo=flask&color=purple)
+![](https://img.shields.io/badge/Web-Docker-informational?style=flat&logo=docker&color=purple)
+![](https://img.shields.io/badge/Web-AWS-informational?style=flat&logo=amazonaws&color=purple)
+![](https://img.shields.io/badge/Web-SQL-informational?style=flat&logo=mysql&color=purple)
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=harishbommakanti&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)

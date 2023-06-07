@@ -38,7 +38,4 @@ Here are some languages, developer tools, ML/AI frameworks, and web development 
 ![](https://img.shields.io/badge/Web-AWS-informational?style=flat&logo=amazonaws&color=purple)
 ![](https://img.shields.io/badge/Web-SQL-informational?style=flat&logo=mysql&color=purple)
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=harishbommakanti&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
 Feel free to reach out if you or anyone you know may be interested in working with me!

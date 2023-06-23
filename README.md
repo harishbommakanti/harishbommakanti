@@ -4,7 +4,7 @@
 <b>Welcome to my GitHub! 👋</b>
 </h3>
 
-I graduated from UT Austin in May '23 with a BS degree in CS and have a passion for AI, ML, and Software Engineering. Check out my [personal website](https://harishbommakanti.github.io) for information about classes I've taken, positions I've landed, and projects I've completed.
+I graduated from UT Austin in May '23 with a BS degree in CS and have a passion for AI, ML, and Software Engineering. I currently work at Veeva Systems as an Associate SWE on the MyVeeva for Patients product. Check out my [personal website](https://harishbommakanti.github.io) for information about classes I've taken, positions I've landed, and projects I've completed.
 
 Here are some languages, developer tools, ML/AI frameworks, and web development tools that I'm comfortable in working with:
 
@@ -28,7 +28,7 @@ Here are some languages, developer tools, ML/AI frameworks, and web development 
 ![](https://img.shields.io/badge/ML-ScikitLearn-informational?style=flat&logo=scikit-learn&color=gold)
 ![](https://img.shields.io/badge/ML-PyTorch-informational?style=flat&logo=pytorch&color=gold)
 ![](https://img.shields.io/badge/ML-TensorFlow-informational?style=flat&logo=tensorflow&color=gold)
-
+![](https://img.shields.io/badge/Web-Spring-informational?style=flat&logo=spring&color=purple)
 ![](https://img.shields.io/badge/Web-HTML-informational?style=flat&logo=html5&color=purple)
 ![](https://img.shields.io/badge/Web-CSS-informational?style=flat&logo=css3&color=purple)
 ![](https://img.shields.io/badge/Web-JavaScript-informational?style=flat&logo=javascript&color=purple)
